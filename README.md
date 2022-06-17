@@ -6,5 +6,5 @@
 
  <br>
 
- <p>   Ainda não descobri uma forma de fazer ele rodar na maquina local, porem estou deixando ele aqui no GitHub para organizar meus projetos, aprendender mais sobre como usar-lo e também voltar futuramente para fazer alterações depois de ter mais experiência e conhecimento.
+ <p>   Ainda não descobri uma forma de fazer ele rodar na maquina local, porem estou deixando ele aqui no GitHub para organizar meus projetos, aprendender mais sobre como usar a plataforma e o terminal. Pretendo voltar futuramente para fazer alterações depois de ter mais experiência e conhecimento e ver mais sobre minha evolução.
  </p>
